@@ -22,7 +22,7 @@ header {
 nav b {
   margin-left: 20.9rem;
   text-decoration: none;
-  color: white;
+  color: red;
   font-weight: bold;
   transition: color 0.3s ease;
  align-content: center;
@@ -83,7 +83,7 @@ h1 {
 }
 marquee
 {
-  font-size: 2.5rem;
+  font-size: 1.0rem;
   color: #ff0000;
   text-shadow: 2px 2px 8px #ff0000;
 }
