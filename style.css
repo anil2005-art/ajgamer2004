@@ -22,7 +22,7 @@ header {
  nav {
     display: flex;
     justify-content: center;
-    gap: 400px; /* Adjust this for more/less space */
+    gap: 100px; /* Adjust this for more/less space */
     background-color: #111;
     padding: 15px;
   }
